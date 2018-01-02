@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\code\SilentLog\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\code\SilentLog\build\intermediates\pre-dexed\debug\android-support-v4_a6e9ca6a607759f06a21c26b405a5bd1e0c5294d.jar" />
+    </item>
+
+</items>
